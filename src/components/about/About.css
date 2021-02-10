@@ -1,0 +1,20 @@
+.about-container{
+    justify-content: start;
+    width: 100%;
+    padding: 20px;
+    margin: 10px auto ;
+    line-height:2;
+    display: grid;
+}
+
+.about-logo {
+    display: grid;
+    justify-self: center;
+}
+
+.profile-pic{
+    display: grid;
+    justify-self: center;
+    width: 450px;
+    border-radius: 500px;
+}
