@@ -1,0 +1,9 @@
+.container{
+    justify-content: start;
+    width: 100%;
+    padding: 20px;
+    margin: 10px auto ;
+    line-height:2;
+    display: grid;
+    justify-content: center;
+}
