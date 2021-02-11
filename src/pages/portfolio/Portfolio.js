@@ -1,9 +1,10 @@
 import React from 'react';
+import Projects from '../../components/portfolio/Portfolio';
 
 function Portfolio(){
     return(
         <>
-        <h1>portfolio</h1>
+        <Projects />
         </>
     )
 }
