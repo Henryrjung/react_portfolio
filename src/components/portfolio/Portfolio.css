@@ -3,3 +3,8 @@
     justify-content: center;
     font-size: 3rem;
 }
+
+.container{
+    display: grid;
+    grid-template-columns: 200px 20rem 20rem 250px;
+}
