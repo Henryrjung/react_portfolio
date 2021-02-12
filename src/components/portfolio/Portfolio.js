@@ -1,14 +1,12 @@
 import React from 'react';
 import './Portfolio.css';
-import Card from '../card/Card';
+import Container from '../container/Container';
 
 function Projects(){
     return(
         <>
         <h1 className='logo'>Projects</h1>
-        <div className='container'>
-            <Card />
-        </div>
+        <Container />
         </>
     )
 }

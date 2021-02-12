@@ -1,0 +1,50 @@
+[
+    {
+        "title": "SerialSearch",
+        "bio": "Users are smart, they know how to google something, but there value with having all relevant media (Books, Movies, TV) all in one place with a simple and concise interface.",
+        "stack": "JavaScript, HTML, CSS",
+        "github": "https://github.com/Henryrjung/SerialSearch",
+        "site": "https://henryrjung.github.io/SerialSearch/",
+        "img": "./images/Search_Screen.PNG"
+    },
+    {
+        "title": "ViralSupport",
+        "bio": "ViralSupport is a covid-19 information page.",
+        "stack": "JavaScript, HTML, CSS",
+        "github": "https://github.com/Henryrjung/ViralSupport",
+        "site": "https://viralsupport.herokuapp.com/",
+        "img": "./images/viralsupporthomepage.PNG"
+    },
+    {
+        "title": "Fitness Tracker",
+        "bio": "Application that lets you log workouts",
+        "stack": "JavaScript, HTML, CSS",
+        "github": "https://github.com/Henryrjung/17_fitness_tracker",
+        "site": "https://agile-citadel-00802.herokuapp.com/?id=600c86365a2f9e0015e3f5b2",
+        "img": "./images/fitness_tracker.PNG"
+    },
+    {
+        "title": "Employee Database",
+        "bio": "Employee database CLI that lets you view, add and update employees information",
+        "stack": "JavaScript, HTML, CSS",
+        "github": "https://github.com/Henryrjung/12_employee_database",
+        "site": "https://drive.google.com/file/d/1E7pK5HXn-6lriKMn3lmMm1nUUkrHbHfM/view"
+        
+    },
+    {
+        "title": "Employee Summary",
+        "bio": "Web app that lets you build a team",
+        "stack": "JavaScript, HTML, CSS",
+        "github": "https://github.com/Henryrjung/10_Employee_Summary",
+        "site": "https://drive.google.com/file/d/1q_le2jTK2nMjh3iJAffeIMoWLnhHLYCJ/view",
+        "img": "./images/10_team_generator_screenshot.PNG"
+    },
+    {
+        "title": "Note Taker",
+        "bio": "Web app that lets you add and delete saved notes",
+        "stack": "JavaScript, HTML, CSS",
+        "github": "https://github.com/Henryrjung/11_note_taker",
+        "site": "https://vast-plains-35339.herokuapp.com/",
+        "img": "./images/11_hw_image.PNG"
+    }
+]
