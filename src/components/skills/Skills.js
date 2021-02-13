@@ -11,7 +11,8 @@ function Skills() {
         <ul>
           <li>
             <img src={CSS}/>
-          </li>
+          </li>cd ..
+          cd
           <li>
             <img src={CSS}/>
           </li>
