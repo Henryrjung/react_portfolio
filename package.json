@@ -1,7 +1,7 @@
 {
   "name": "react_portfolio",
   "version": "0.1.0",
-  "homepage": "https://henryrjung.github.io/react_portfolio",
+  "homepage": "https://henryrjung.github.io/react_portfolio/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
