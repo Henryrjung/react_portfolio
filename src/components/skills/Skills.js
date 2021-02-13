@@ -1,18 +1,34 @@
 import React from "react";
-import './Skills.css';
+import "./Skills.css";
+
+import CSS from './assets/css-3.svg';
 
 function Skills() {
   return (
     <>
-    <div className='container'>
-        <div>
-        <h1>Technologies</h1>
+      <div className="container">
+        <h1>Stack</h1>
         <ul>
-          <li></li>
+          <li>
+            <img src={CSS}/>
+          </li>
+          <li>
+            <img src={CSS}/>
+          </li>
+          <li>
+            <img src={CSS}/>
+          </li>
+          <li>
+            <img src={CSS}/>
+          </li>
+          <li>
+            <img src={CSS}/>
+          </li>
+          <li>
+            <img src={CSS}/>
+          </li>
         </ul>
       </div>
-    </div>
-      
     </>
   );
 }
